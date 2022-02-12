@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/andrewmiotke/Desktop/hugo_test",
+	"sourceRoot": "/home/runner/work/quickstart/quickstart",
 	"sources": [
 		"stdin"
 	],
