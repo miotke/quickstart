@@ -1,4 +1,4 @@
-baseURL = 'https://miotke.github.io/hugo_test'
+baseURL = 'https://miotke.github.io/quickstart/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
